@@ -1,0 +1,11 @@
+# @title m2eclipse
+# @description personal settings deviant from the defaults
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Mar 27 17:15:00 CEST 2011
+file_export_version=3.0
+/instance/org.maven.ide.eclipse/eclipse.m2.defaultPomEditorPage=true
+/instance/org.maven.ide.eclipse/eclipse.m2.showAdvancedTabs=true
+/instance/org.maven.ide.eclipse/eclipse.m2.downloadJavadoc=true
+/instance/org.maven.ide.eclipse/eclipse.m2.downloadSources=true

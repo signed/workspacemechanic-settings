@@ -1,0 +1,11 @@
+# @title EasyShell
+# @description easy shell uses kde specific settings
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Mar 30 22:20:46 CEST 2011
+/instance/com.tetrade.eclipse.plugins.easyshell/targetExplorePreference=konqueror file\:{2}
+file_export_version=3.0
+/instance/com.tetrade.eclipse.plugins.easyshell/targetPreference=konsole --noclose --workdir {1}
+/instance/com.tetrade.eclipse.plugins.easyshell/listPreference=3
+/instance/com.tetrade.eclipse.plugins.easyshell/targetRunPreference=konsole --noclose --workdir {1} -e ./{3}

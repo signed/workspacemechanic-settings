@@ -1,0 +1,8 @@
+# @title favorits
+# @description add my favorits for autocompletion of static methods
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Mar 27 17:34:41 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.junit.Assert.assertThat;org.junit.Assert.fail;org.hamcrest.CoreMatchers.*;org.hamcrest.Matchers.*;org.mockito.Matchers.*;org.mockito.Mockito.*;org.hamcrest.MatcherAssert.*

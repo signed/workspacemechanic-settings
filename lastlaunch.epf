@@ -1,0 +1,8 @@
+# @title always run the last launch
+# @description sets some prefernes
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Mar 27 16:29:43 CEST 2011
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.UseContextualLaunch=false
+file_export_version=3.0
