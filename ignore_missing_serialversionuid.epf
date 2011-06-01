@@ -1,0 +1,8 @@
+# @title Ignore Missing SerialVersion
+# @description Show no Warning if a class implements Serializable but does not have a static long member serialVersionUID
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Jun 01 14:30:35 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingSerialVersion=ignore
