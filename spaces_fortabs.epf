@@ -1,0 +1,8 @@
+# @title Insert spaces for tabs
+# @description No more tabs, spaces are more portable
+# @audit_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Jun 17 09:31:41 CEST 2011
+/instance/org.eclipse.ui.editors/spacesForTabs=true
+file_export_version=3.0
