@@ -1,0 +1,8 @@
+# @title Enable Refresh Automatically
+# @description Syncronize changes in workspace files that happend outside eclipse
+# @audit_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jun 21 13:54:39 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.core.resources/refresh.enabled=true
