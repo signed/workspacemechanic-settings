@@ -1,0 +1,8 @@
+# @title Java Editor Templates
+# @description Adds/Removes some Templates for editing java files
+# @audit_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jul 05 14:37:10 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="java-members" deleted\="true" description\="test method" enabled\="true" id\="org.eclipse.jdt.ui.templates.test" name\="test">public void test${name}() throws Exception {\n\t${cursor} \n}</template></templates>
