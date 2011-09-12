@@ -1,0 +1,8 @@
+# @title [m2e] Show xml page by default
+# @description When a pom xml is opend in an editor, show the xml page by default.
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Sep 12 10:28:39 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultPomEditorPage=true
